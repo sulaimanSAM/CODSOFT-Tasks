@@ -4,6 +4,10 @@
 
 **Introduction:**
 Welcome to our software engineering project! This README provides an overview of the project structure, its components, and how to get started.
+- [Task 1](task1/)
+- [Task 2](task2/)
+- [Task 3](task3/)
+
 
 ---
 
